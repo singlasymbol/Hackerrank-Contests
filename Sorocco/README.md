@@ -1,0 +1,8 @@
+![alt text](Screenshots/legoblock1.png "")
+![alt text](Screenshots/legoblock2.png "")
+![alt text](Screenshots/maxCookies1.png "")
+![alt text](Screenshots/maxCookies2.png "")
+![alt text](Screenshots/allPer1.png "")
+![alt text](Screenshots/allPer2.png "")
+![alt text](Screenshots/secretMapping1.png "")
+![alt text](Screenshots/secretMapping2.png "")
